@@ -14,6 +14,13 @@ CinemaStream is a Kodi addon that allows you to stream your favorite movies righ
 
 - Regular Updates: Stay up-to-date with the latest content additions and features.
 
+## Screenshots
+<img src="ScreenShots/screenshot-1.png" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="ScreenShots/screenshot-2.png" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="ScreenShots/screenshot-3.png" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="ScreenShots/screenshot-4.png" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="ScreenShots/screenshot-5.png" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
 ## Installation
 
 Follow these steps to install CinemaStream on your Kodi:
